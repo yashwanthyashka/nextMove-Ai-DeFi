@@ -1,0 +1,7 @@
+{
+  "name": "DeFi AI Assistant",
+  "description": "An AI-driven crypto decentralized wallet assistant that can execute commands, provide market insights, and keep you updated with the latest in Web3.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
